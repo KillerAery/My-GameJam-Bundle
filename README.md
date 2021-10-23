@@ -1,6 +1,11 @@
 # MyGameJamBundle
 
- 记录自己打过的GameJam
+ 记录自己那些年打过的GameJam。
+
+可执行程序均放在百度网盘
+
+链接：https://pan.baidu.com/s/108ALknOgmZDB9V6x4NxPjA 
+提取码：cb92
 
 ## 2018 CIGAGameJam 广州站《GhostFantasy》
 
