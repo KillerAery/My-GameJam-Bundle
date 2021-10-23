@@ -6,7 +6,7 @@
 
 引擎：Unity
 
-2D解谜游戏
+游戏类型：2D解谜游戏
 
 游戏截图：
 
@@ -16,7 +16,7 @@
 
 引擎：Unity
 
-2D恐怖解谜游戏
+游戏类型：2D恐怖解谜游戏
 
 游戏截图：
 
@@ -26,20 +26,20 @@
 
 引擎：Unity
 
-3D解谜游戏
+游戏类型：3D解谜游戏
 
 游戏截图：
 
-
+<img src="Markdown_Image\(3).png" alt="" style="zoom: 50%;" />
 
 ## 2021 GlobalGameJam 《Blind Samurai》
 
 引擎：UE4
 
-3D动作游戏
+游戏类型：3D动作游戏
 
 演示视频地址：https://www.bilibili.com/video/BV1fT4y1P74T
 
 游戏截图：
 
-<img src="Markdown_Image\(4).png" alt="(4)" style="zoom: 40%;" />
+<img src="Markdown_Image\(4).png" alt="" style="zoom: 40%;" />
