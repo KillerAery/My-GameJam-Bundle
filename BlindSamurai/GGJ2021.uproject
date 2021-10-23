@@ -1,0 +1,17 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{7608E784-4299-9213-555E-A3A048E61604}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "GGJ2021",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine",
+				"UMG"
+			]
+		}
+	]
+}
