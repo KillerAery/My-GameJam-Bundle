@@ -58,4 +58,4 @@
 演示视频地址：[https://www.bilibili.com/video/BV1DF411p7HQ](https://www.bilibili.com/video/BV1DF411p7HQ)
 
 游戏截图：
-<img src="Markdown_Image\(4).png" alt="" style="zoom: 100%;" />
+<img src="Markdown_Image\(5).png" alt="" style="zoom: 100%;" />
