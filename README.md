@@ -11,7 +11,7 @@
 
 引擎：Unity
 
-游戏类型：2D解谜游戏
+游戏类型：2.5D解谜游戏
 
 游戏截图：
 
@@ -48,3 +48,15 @@
 游戏截图：
 
 <img src="Markdown_Image\(4).png" alt="" style="zoom: 40%;" />
+
+## 2022 GlobalGameJam 《柏揽动物园》
+
+引擎：Unity
+
+游戏类型：2D解密游戏
+
+演示视频地址：[https://www.bilibili.com/video/BV1DF411p7HQ](https://www.bilibili.com/video/BV1DF411p7HQ)
+
+游戏截图：
+
+![](Markdown_Image\(5).png)
